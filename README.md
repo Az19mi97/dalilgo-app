@@ -1,6 +1,8 @@
 # Project - DalilGo App
 
-DalilGo is a mobile application designed to help users search and scan products for E-numbers in a quick and convenient way. The app offers both free and premium experiences, allowing users to choose the level of functionality they want.
+DalilGo is a mobile application designed to help users quickly and conveniently search for and scan products for E-numbers. The app provides both free and premium experiences, allowing users to choose the level of functionality they want.
+
+With DalilGo, users can not only identify E-numbers but also see whether each E-number is suitable for vegans or vegetarians. The app provides a detailed overview of each searched or detected E-number and offers a complete summary when multiple E-numbers are detected from a single image or via live scanning with the Smart Camera Overlay feature. This makes it easy to assess the overall suitability of a product at a glance.
 
 - DalilGo is planned to be available only on Android devices.
   
