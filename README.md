@@ -2,12 +2,19 @@
 
 DalilGo is a mobile application developed with Flutter to provide fast and accurate identification of E-numbers in food products. The app enables users to search, scan, and analyze products with advanced image processing techniques, offering a seamless and informative experience for understanding ingredient data.
 
-With DalilGo, users can not only identify E-numbers but also see whether each E-number is suitable for vegans or vegetarians. The app provides a detailed overview of each searched or detected E-number and offers a complete summary when multiple E-numbers are detected from a single image or via live scanning with the Smart Camera Overlay feature. This makes it easy to assess the overall suitability of a product at a glance.
+With DalilGo, users can not only identify E-numbers but also see whether each E-number is suitable for vegans or vegetarians. 
+
 
 <img src="https://github.com/user-attachments/assets/0a9cc86e-5542-48a3-94a8-d1279459e314" alt="Screenshot" width="180" height="400" />
 <img width="180" height="400" alt="Screenshot_1767707723" src="https://github.com/user-attachments/assets/31770a64-0c49-4c57-9cdb-f95b91e184f9" />
 <img width="180" height="400" alt="Screenshot_1767707743" src="https://github.com/user-attachments/assets/8d474ff5-4463-442f-853e-6bfbf7ed4f1a" />
-  
+
+The app provides a detailed overview of each searched or detected E-number and offers a complete summary when multiple E-numbers are detected from a single image or via live scanning with the Smart Camera Overlay feature. This makes it easy to assess the overall suitability of a product at a glance.
+
+<img width="240" height="500" alt="img_4" src="https://github.com/user-attachments/assets/44f6afbc-69dd-4060-b8a9-5564dec49822" />
+<img width="240" height="500" alt="img_5" src="https://github.com/user-attachments/assets/228bf060-fb0f-4e70-bff3-2bc5a14d779d" />
+<img width="240" height="500" alt="img_6" src="https://github.com/user-attachments/assets/761b4867-3bc8-41b6-ad2b-03b63c6f6288" />
+
 ---
 
 ## Note on Code Privacy
